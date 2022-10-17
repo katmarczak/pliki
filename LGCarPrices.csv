@@ -1,0 +1,206 @@
+car_ID,CarName,fueltype,doornumber,carbody,wheelbase,curbweight,cylindernumber,enginesize,stroke,horsepower,peakrpm,citympg,price
+1,alfa-romero giulia,gas,two,convertible,88.6,2548,four,130,2.68,111,5000,21,13495
+2,alfa-romero stelvio,gas,two,convertible,88.6,2548,four,130,2.68,111,5000,21,16500
+3,alfa-romero Quadrifoglio,gas,two,hatchback,94.5,2823,six,152,3.47,154,5000,19,16500
+4,audi 100 ls,gas,four,sedan,99.8,2337,four,109,3.4,102,5500,24,13950
+5,audi 100ls,gas,four,sedan,99.4,2824,five,136,3.4,115,5500,18,17450
+6,audi fox,gas,two,sedan,99.8,2507,five,136,3.4,110,5500,19,15250
+7,audi 100ls,gas,four,sedan,105.8,2844,five,136,3.4,110,5500,19,17710
+8,audi 5000,gas,four,wagon,105.8,2954,five,136,3.4,110,5500,19,18920
+9,audi 4000,gas,four,sedan,105.8,3086,five,131,3.4,140,5500,17,23875
+10,audi 5000s (diesel),gas,two,hatchback,99.5,3053,five,131,3.4,160,5500,16,17859.167
+11,bmw 320i,gas,two,sedan,101.2,2395,four,108,2.8,101,5800,23,16430
+12,bmw 320i,gas,four,sedan,101.2,2395,four,108,2.8,101,5800,23,16925
+13,bmw x1,gas,two,sedan,101.2,2710,six,164,3.19,121,4250,21,20970
+14,bmw x3,gas,four,sedan,101.2,2765,six,164,3.19,121,4250,21,21105
+15,bmw z4,gas,four,sedan,103.5,3055,six,164,3.19,121,4250,20,24565
+16,bmw x4,gas,four,sedan,103.5,3230,six,209,3.39,182,5400,16,30760
+17,bmw x5,gas,two,sedan,103.5,3380,six,209,3.39,182,5400,16,41315
+18,bmw x3,gas,four,sedan,110,3505,six,209,3.39,182,5400,15,36880
+19,chevrolet impala,gas,two,hatchback,88.4,1488,three,61,3.03,48,5100,47,5151
+20,chevrolet monte carlo,gas,two,hatchback,94.5,1874,four,90,3.11,70,5400,38,6295
+21,chevrolet vega 2300,gas,four,sedan,94.5,1909,four,90,3.11,70,5400,38,6575
+22,dodge rampage,gas,two,hatchback,93.7,1876,four,90,3.23,68,5500,37,5572
+23,dodge challenger se,gas,two,hatchback,,1876,four,90,3.23,68,5500,31,6377
+24,dodge d200,gas,two,hatchback,,2128,four,98,3.39,102,5500,24,7957
+25,dodge monaco (sw),gas,four,hatchback,,1967,four,90,3.23,68,5500,31,6229
+26,dodge colt hardtop,gas,four,sedan,,1989,four,90,3.23,68,5500,31,6692
+27,dodge colt (sw),gas,four,sedan,,1989,four,90,3.23,68,5500,31,7609
+28,dodge coronet custom,gas,two,sedan,,2191,four,98,3.39,102,5500,24,8558
+29,dodge dart custom,gas,four,wagon,103.3,2535,four,122,3.46,88,5000,24,8921
+30,dodge coronet custom (sw),gas,two,hatchback,95.9,2811,four,156,3.9,145,5000,19,12964
+31,honda civic,gas,two,hatchback,86.6,1713,four,92,3.41,58,4800,49,6479
+32,honda civic cvcc,gas,two,hatchback,86.6,1819,four,92,3.41,76,6000,31,6855
+33,honda civic,gas,two,hatchback,93.7,1837,four,79,3.07,60,5500,38,5399
+34,honda accord cvcc,gas,two,hatchback,93.7,1940,four,92,3.41,76,6000,30,6529
+35,honda civic cvcc,gas,two,hatchback,93.7,1956,four,92,3.41,76,6000,30,7129
+36,honda accord lx,gas,four,sedan,96.5,2010,four,92,3.41,76,6000,30,7295
+37,honda civic 1500 gl,gas,four,wagon,,2024,four,92,3.41,76,6000,30,7295
+38,honda accord,gas,two,hatchback,,2236,four,110,3.58,86,5800,27,7895
+39,honda civic 1300,gas,two,hatchback,,2289,four,110,3.58,86,5800,27,9095
+40,honda prelude,gas,four,sedan,,2304,four,110,3.58,86,5800,27,8845
+41,honda accord,gas,four,sedan,,2372,four,110,3.58,86,5800,27,10295
+42,honda civic,gas,four,sedan,,2465,four,110,3.58,101,5800,24,12945
+43,honda civic (auto),gas,two,sedan,,2293,four,110,3.58,100,5500,25,10345
+44,isuzu MU-X,gas,four,sedan,94.3,2337,four,111,3.23,78,4800,24,6785
+45,isuzu D-Max,gas,two,sedan,94.5,1874,four,90,3.11,70,5400,38,8916.5
+46,isuzu D-Max V-Cross,gas,four,sedan,94.5,1909,four,90,3.11,70,5400,38,8916.5
+47,isuzu D-Max,gas,two,hatchback,96,2734,four,119,3.23,90,5000,24,11048
+48,jaguar xj,gas,four,sedan,113,4066,six,258,4.17,176,4750,15,32250
+49,jaguar xf,gas,four,sedan,113,4066,six,258,4.17,176,4750,15,35550
+50,jaguar xk,gas,two,sedan,102,3950,twelve,326,2.76,262,5000,13,36000
+51,maxda rx3,gas,two,hatchback,93.1,1890,four,91,3.15,68,5000,30,5195
+52,maxda glc deluxe,gas,two,hatchback,93.1,1900,four,91,3.15,68,5000,31,6095
+53,mazda rx2 coupe,gas,two,hatchback,93.1,1905,four,91,3.15,68,5000,31,6795
+54,mazda rx-4,gas,four,sedan,93.1,1945,four,91,3.15,68,5000,31,6695
+55,mazda glc deluxe,gas,four,sedan,,1950,four,91,3.15,68,5000,31,7395
+56,mazda 626,gas,two,hatchback,,2380,two,70,3.255,101,6000,17,10945
+57,mazda glc,gas,two,hatchback,,2380,two,70,3.255,101,6000,17,11845
+58,mazda rx-7 gs,gas,two,hatchback,,2385,two,70,3.255,101,6000,17,13645
+59,mazda glc 4,gas,two,hatchback,,2500,two,80,3.255,135,6000,16,15645
+60,mazda 626,gas,two,hatchback,,2385,four,122,3.39,84,4800,26,8845
+61,mazda glc custom l,gas,four,sedan,,2410,four,122,3.39,84,4800,26,8495
+62,mazda glc custom,gas,two,hatchback,,2385,four,122,3.39,84,4800,26,10595
+63,mazda rx-4,gas,four,sedan,,2410,four,122,3.39,84,4800,26,10245
+64,mazda glc deluxe,diesel,four,sedan,98.8,2443,four,122,3.39,64,4650,36,10795
+65,mazda 626,gas,four,hatchback,98.8,2425,four,122,3.39,84,4800,26,11245
+66,mazda glc,gas,four,sedan,104.9,2670,four,140,3.16,120,5000,19,18280
+67,mazda rx-7 gs,diesel,four,sedan,104.9,2700,four,134,3.64,72,4200,31,18344
+68,buick electra 225 custom,diesel,four,sedan,110,3515,five,183,3.64,123,4350,22,25552
+69,buick century luxus (sw),diesel,four,wagon,110,3750,five,183,3.64,123,4350,22,28248
+70,buick century,diesel,two,hardtop,106.7,3495,five,183,3.64,123,4350,22,28176
+71,buick skyhawk,diesel,four,sedan,115.6,3770,five,183,3.64,123,4350,22,31600
+72,buick opel isuzu deluxe,gas,four,sedan,115.6,3740,eight,234,3.1,155,4750,16,34184
+73,buick skylark,gas,two,convertible,96.6,3685,eight,234,3.1,155,4750,16,35056
+74,buick century special,gas,four,sedan,120.9,3900,eight,308,3.35,184,4500,14,40960
+75,buick regal sport coupe (turbo),gas,two,hardtop,112,3715,eight,304,3.35,184,4500,14,45400
+76,mercury cougar,gas,two,hatchback,102.7,2910,four,140,3.12,175,5000,19,16503
+77,mitsubishi mirage,gas,two,hatchback,93.7,1918,four,92,3.23,68,5500,37,5389
+78,mitsubishi lancer,gas,two,hatchback,93.7,1944,four,92,3.23,68,5500,31,6189
+79,mitsubishi outlander,gas,two,hatchback,93.7,2004,four,92,3.23,68,5500,31,6669
+80,mitsubishi g4,gas,two,hatchback,93,2145,four,98,3.39,102,5500,24,7689
+81,mitsubishi mirage g4,gas,two,hatchback,96.3,2370,four,110,3.46,116,5500,23,9959
+82,mitsubishi g4,gas,two,hatchback,96.3,2328,four,122,3.46,88,5000,25,8499
+83,mitsubishi outlander,gas,two,hatchback,,2833,four,156,3.86,145,5000,19,12629
+84,mitsubishi g4,gas,two,hatchback,,2921,four,156,3.86,145,5000,19,14869
+85,mitsubishi mirage g4,gas,two,hatchback,,2926,four,156,3.86,145,5000,19,14489
+86,mitsubishi montero,gas,four,sedan,,2365,four,122,3.46,88,5000,25,6989
+87,mitsubishi pajero,gas,four,sedan,,2405,four,122,3.46,88,5000,25,8189
+88,mitsubishi outlander,gas,four,sedan,96.3,2403,four,110,3.46,116,5500,23,9279
+89,mitsubishi mirage g4,gas,four,sedan,96.3,2403,four,110,3.46,116,5500,23,9279
+90,Nissan versa,gas,two,sedan,94.5,1889,four,97,3.29,69,5200,31,5499
+91,nissan gt-r,diesel,two,sedan,94.5,2017,four,103,3.47,55,4800,45,7099
+92,nissan rogue,gas,two,sedan,94.5,1918,four,97,3.29,69,5200,31,6649
+93,nissan latio,gas,four,sedan,94.5,1938,four,97,3.29,69,5200,31,6849
+94,nissan titan,gas,four,wagon,,2024,four,97,3.29,69,5200,31,7349
+95,nissan leaf,gas,two,sedan,,1951,four,97,3.29,69,5200,31,7299
+96,nissan juke,gas,two,hatchback,,2028,four,97,3.29,69,5200,31,7799
+97,nissan latio,gas,four,sedan,,1971,four,97,3.29,69,5200,31,7499
+98,nissan note,gas,four,wagon,94.5,2037,four,97,3.29,69,5200,31,7999
+99,nissan clipper,gas,two,hardtop,95.1,2008,four,97,3.29,69,5200,31,8249
+100,nissan rogue,gas,four,hatchback,97.2,2324,four,120,3.47,97,5200,27,8949
+101,nissan nv200,gas,four,sedan,97.2,2302,four,120,3.47,97,5200,27,9549
+102,nissan dayz,gas,four,sedan,100.4,3095,six,181,3.27,152,5200,17,13499
+103,nissan fuga,gas,four,wagon,100.4,3296,six,181,3.27,152,5200,17,14399
+104,nissan otti,gas,four,sedan,100.4,3060,six,181,3.27,152,5200,19,13499
+105,nissan teana,gas,two,hatchback,91.3,3071,six,181,3.27,160,5200,19,17199
+106,nissan kicks,gas,two,hatchback,91.3,3139,six,181,3.27,200,5200,17,19699
+107,nissan clipper,gas,two,hatchback,99.2,3139,six,181,3.27,160,5200,19,18399
+108,peugeot 504,gas,four,sedan,107.9,3020,four,120,3.19,97,5000,19,11900
+109,peugeot 304,diesel,four,sedan,107.9,3197,four,152,3.52,95,4150,28,13200
+110,peugeot 504 (sw),gas,four,wagon,114.2,3230,four,120,3.19,97,5000,19,12440
+111,peugeot 504,diesel,four,wagon,114.2,3430,four,152,3.52,95,4150,25,13860
+112,peugeot 504,gas,four,sedan,107.9,3075,four,120,2.19,95,5000,19,15580
+113,peugeot 604sl,diesel,four,sedan,107.9,3252,four,152,3.52,95,4150,28,16900
+114,peugeot 504,gas,four,wagon,114.2,3285,four,120,2.19,95,5000,19,16695
+115,peugeot 505s turbo diesel,diesel,four,wagon,114.2,3485,four,152,3.52,95,4150,25,17075
+116,peugeot 504,gas,four,sedan,107.9,3075,four,120,3.19,97,5000,19,16630
+117,peugeot 504,diesel,four,sedan,107.9,3252,four,152,3.52,95,4150,28,17950
+118,peugeot 604sl,gas,four,sedan,108,3130,four,134,3.21,142,5600,18,18150
+119,plymouth fury iii,gas,two,hatchback,93.7,1918,four,90,3.23,68,5500,37,5572
+120,plymouth cricket,gas,two,hatchback,93.7,2128,four,98,3.39,102,5500,24,7957
+121,plymouth fury iii,gas,four,hatchback,93.7,1967,four,90,3.23,68,5500,31,6229
+122,plymouth satellite custom (sw),gas,four,sedan,93.7,1989,four,90,3.23,68,5500,31,0
+123,plymouth fury gran sedan,gas,four,sedan,93.7,2191,four,98,3.23,68,5500,31,7609
+124,plymouth valiant,gas,four,wagon,103.3,2535,four,122,3.46,88,5000,24,8921
+125,plymouth duster,gas,two,hatchback,95.9,2818,four,156,3.86,145,5000,19,12764
+126,porsche macan,gas,two,hatchback,94.5,2778,four,151,3.11,143,5500,19,22018
+127,porcshce panamera,gas,two,hardtop,89.5,2756,six,194,2.9,207,5900,17,32528
+128,porsche cayenne,gas,two,hardtop,89.5,2756,six,194,2.9,207,5900,17,34028
+129,porsche boxter,gas,two,convertible,89.5,2800,six,194,2.9,207,5900,17,37028
+130,porsche cayenne,gas,two,hatchback,98.4,3366,eight,203,3.11,288,5750,17,31400.5
+131,renault 12tl,gas,four,wagon,96.1,2579,four,132,3.9,90,5100,23,9295
+132,renault 5 gtl,gas,two,hatchback,96.1,2460,four,132,3.9,90,5100,23,9895
+133,saab 99e,gas,two,hatchback,99.1,2658,four,121,3.07,110,5250,21,11850
+134,saab 99le,gas,four,sedan,99.1,2695,four,121,3.07,110,5250,21,12170
+135,saab 99le,gas,two,hatchback,99.1,2707,four,121,2.07,110,5250,21,15040
+136,saab 99gle,gas,four,sedan,99.1,2758,four,121,3.07,110,5250,21,15510
+137,saab 99gle,gas,two,hatchback,99.1,2808,four,121,3.07,160,5500,19,18150
+138,saab 99e,gas,four,sedan,99.1,2847,four,121,3.07,160,5500,19,18620
+139,subaru,gas,two,hatchback,93.7,2050,four,97,2.36,69,4900,31,5118
+140,subaru dl,gas,two,hatchback,93.7,2120,four,108,2.64,73,4400,26,0
+141,subaru dl,gas,two,hatchback,93.3,2240,four,108,2.64,73,4400,26,7603
+142,subaru,gas,four,sedan,97.2,2145,four,108,2.64,82,4800,32,7126
+143,subaru brz,gas,four,sedan,97.2,2190,four,108,2.64,82,4400,28,7775
+144,subaru baja,gas,four,sedan,97.2,2340,four,108,2.64,94,5200,26,9960
+145,subaru r1,gas,four,sedan,97,2385,four,108,2.64,82,4800,24,9233
+146,subaru r2,gas,four,sedan,97,2510,four,108,2.64,111,4800,24,11259
+147,subaru trezia,gas,four,wagon,97,2290,four,108,2.64,82,4800,28,7463
+148,subaru tribeca,gas,four,wagon,97,2455,four,108,2.64,94,5200,25,10198
+149,subaru dl,gas,four,wagon,96.9,2420,four,108,2.64,82,4800,23,8013
+150,subaru dl,gas,four,wagon,96.9,2650,four,108,2.64,111,4800,23,11694
+151,toyota corona mark ii,gas,two,hatchback,,1985,four,92,3.03,62,4800,35,5348
+152,toyota corona,gas,two,hatchback,,2040,four,92,3.03,62,4800,31,6338
+153,toyota corolla 1200,gas,four,hatchback,,2015,four,92,3.03,62,4800,31,6488
+154,toyota corona hardtop,gas,four,wagon,,2280,four,92,3.03,62,4800,31,6918
+155,toyota corolla 1600 (sw),gas,four,wagon,,2290,four,92,3.03,62,4800,27,7898
+156,toyota carina,gas,four,wagon,95.7,3110,four,92,3.03,62,4800,27,8778
+157,toyota mark ii,gas,four,sedan,95.7,2081,four,98,3.03,70,4800,30,6938
+158,toyota corolla 1200,gas,four,hatchback,95.7,2109,four,98,3.03,70,4800,30,7198
+159,toyota corona,diesel,four,sedan,95.7,2275,four,110,3.35,56,4500,34,7898
+160,toyota corolla,diesel,four,hatchback,95.7,2275,four,110,3.35,56,4500,38,7788
+161,toyota corona,gas,four,sedan,95.7,2094,four,98,3.03,70,4800,38,7738
+162,toyota corolla,gas,four,hatchback,,2122,four,98,3.03,70,4800,28,8358
+163,toyota mark ii,gas,four,sedan,95.7,2140,four,98,3.03,70,4800,28,9258
+164,toyota corolla liftback,gas,two,sedan,94.5,2169,four,98,3.03,70,4800,29,8058
+165,toyota corona,gas,two,hatchback,94.5,2204,four,98,3.03,70,4800,29,8238
+166,toyota celica gt liftback,gas,two,sedan,94.5,2265,four,98,3.08,112,6600,26,9298
+167,toyota corolla tercel,gas,two,hatchback,,2300,four,98,3.08,112,6600,26,9538
+168,toyota corona liftback,gas,two,hardtop,98.4,2540,four,146,3.5,116,4800,24,
+169,toyota corolla,gas,two,hardtop,98.4,2536,four,146,3.5,116,4800,24,9639
+170,toyota starlet,gas,two,hatchback,98.4,2551,four,146,3.5,116,4800,24,9989
+171,toyota tercel,gas,two,hardtop,98.4,2679,four,146,3.5,116,4800,24,11199
+172,toyota corolla,gas,two,hatchback,98.4,2714,four,146,3.5,116,4800,24,11549
+173,toyota cressida,gas,two,convertible,98.4,2975,four,146,3.5,116,4800,24,17669
+174,toyota corolla,gas,four,sedan,102.4,2326,four,122,3.54,92,4200,29,8948
+175,toyota celica gt,diesel,four,sedan,102.4,2480,four,110,3.35,73,4500,30,10698
+176,toyota corona,gas,four,hatchback,102.4,2414,four,122,3.54,92,4200,27,9988
+177,toyota corolla,gas,four,sedan,102.4,2414,four,122,3.54,92,4200,27,10898
+178,toyota mark ii,gas,four,hatchback,102.4,2458,four,122,3.54,92,4200,27,11248
+179,toyota corolla liftback,gas,two,hatchback,102.9,2976,six,171,3.35,161,5200,20,16558
+180,toyota corona,gas,two,hatchback,102.9,3016,six,171,3.35,161,5200,19,15998
+181,toyota starlet,gas,four,sedan,104.5,3131,six,171,3.35,156,5200,20,15690
+182,toyouta tercel,gas,four,wagon,104.5,3151,six,161,3.35,156,5200,19,15750
+183,vokswagen rabbit,diesel,two,sedan,97.3,2261,four,97,3.4,52,4800,37,0
+184,volkswagen 1131 deluxe sedan,gas,two,sedan,97.3,2209,four,109,3.4,85,5250,27,7975
+185,volkswagen model 111,diesel,four,sedan,97.3,2264,four,97,3.4,52,4800,37,7995
+186,volkswagen type 3,gas,four,sedan,97.3,2212,four,109,3.4,85,5250,27,8195
+187,volkswagen 411 (sw),gas,four,sedan,,2275,four,109,3.4,85,5250,27,8495
+188,volkswagen super beetle,diesel,four,sedan,,2319,four,97,3.4,68,4500,37,9495
+189,volkswagen dasher,gas,four,sedan,97.3,2300,four,109,3.4,100,5500,26,
+190,vw dasher,gas,two,convertible,94.5,2254,four,109,3.4,90,5500,24,11595
+191,vw rabbit,gas,two,hatchback,94.5,2221,four,109,3.4,90,5500,24,9980
+192,volkswagen rabbit,gas,four,sedan,100.4,2661,five,136,3.4,110,5500,19,13295
+193,volkswagen rabbit custom,diesel,four,sedan,100.4,2579,four,97,3.4,68,4500,33,13845
+194,volkswagen dasher,gas,four,wagon,100.4,2563,four,109,3.4,88,5500,25,12290
+195,volvo 145e (sw),gas,four,sedan,104.3,2912,four,141,3.15,114,5400,23,12940
+196,volvo 144ea,gas,four,wagon,104.3,3034,four,141,3.15,114,5400,23,13415
+197,volvo 244dl,gas,four,sedan,104.3,2935,four,141,3.15,114,5400,24,15985
+198,volvo 245,gas,four,wagon,104.3,3042,four,141,3.15,114,5400,24,16515
+199,volvo 264gl,gas,four,sedan,104.3,3045,four,130,3.15,162,5100,17,18420
+200,volvo diesel,gas,four,wagon,104.3,3157,four,130,3.15,162,5100,17,18950
+201,volvo 145e (sw),gas,four,sedan,109.1,2952,four,141,3.15,114,5400,23,16845
+202,volvo 144ea,gas,four,sedan,109.1,3049,four,141,3.15,160,5300,19,19045
+203,volvo 244dl,gas,four,sedan,109.1,3012,six,173,2.87,134,5500,18,21485
+204,volvo 246,diesel,four,sedan,109.1,3217,six,145,3.4,106,4800,26,22470
+205,volvo 264gl,gas,four,sedan,109.1,3062,four,141,3.15,114,5400,19,22625
